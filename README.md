@@ -34,7 +34,7 @@ note:
 ```bash
 npm install
 ```
-### Added Intercom APP_ID
+### Add Your Intercom APP_ID
 ```bash
 code src/index.js
 ```
