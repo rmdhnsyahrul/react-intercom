@@ -30,7 +30,16 @@ note:
 - change your app id to integrate intercom web with your intercom admin in index.js
 
 ## Running the project
+### Install Dependencies
 ```bash
 npm install
+```
+### Added Intercom APP_ID
+```bash
+code src/index.js
+```
+note: change your app id with your intercom app id
+### Running Web App
+```bash
 npm start
 ```
