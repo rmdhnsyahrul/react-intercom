@@ -1,5 +1,4 @@
 # react-intercom
-# Expo Start To Standalone App
 ## Getting Started
 ```bash
 git clone https://github.com/rmdhnsyahrul/react-intercom.git
