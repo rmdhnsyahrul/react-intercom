@@ -26,8 +26,7 @@ window.intercomSettings = {
     created_at: new Date() // Signup date as a Unix timestamp
   };
 ```
-note:
-- change your app id to integrate intercom web with your intercom admin in index.js
+note: change your app id to integrate intercom web with your intercom admin in index.js
 
 ## Running the project
 ### Install Dependencies
