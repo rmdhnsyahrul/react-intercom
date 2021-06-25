@@ -11,18 +11,22 @@ install [node](https://nodejs.org/en/)
 
 ## Add Intercom
 ### Instal chat for visitor
+```bash
 window.intercomSettings = {
     app_id: "XXXXXX"
   };
-  
+```
+
 ### Instal chat for visitor
+```bash
 window.intercomSettings = {
     app_id: "XXXXXX",
     name: "Bob", // Full name
     email: "bob@mailinator.com", // Email address
     created_at: new Date() // Signup date as a Unix timestamp
   };
-```note: change your app id to integrate intercom web with your intercom admin```
+```
+note: change your app id to integrate intercom web with your intercom admin```
 
 ## Running the project
 ```bash
